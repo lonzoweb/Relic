@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
-  "themeColor": "#0b3765",
+  "name": "Relic",
+  "shortName": "Relic",
+  "description": "A Digital Agency founded in Miami.",
+  "themeColor": "#AA9732",
   "backgroundColor": "#ffffff",
   "lang": "en"
 }
